@@ -1,0 +1,20 @@
+#header{
+    text-align:center;
+    }
+   
+form label{display:block;
+}
+
+.input-group label,.input-group textarea{
+       display: block;
+}
+
+p{
+    text-align: justify;
+}
+
+.navbar-brand{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
