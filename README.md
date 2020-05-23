@@ -1,2 +1,2 @@
-# ToDoApp
-Basic To Do List Application 
+# MyNotes
+Basic MyNotes Application 
